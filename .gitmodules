@@ -1,0 +1,3 @@
+[submodule "lib/leaver_lib"]
+	path = lib/leaver_lib
+	url = git@github.com:SaaFomenko/leaver_lib.git
